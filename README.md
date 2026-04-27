@@ -1,33 +1,41 @@
-# Niranjan-Portfolio-Website
-This is my personal portfolio website project built as part of my JavaScript course. It showcases my skills, projects, and contact information using HTML, CSS, and JavaScript.
+# 🚀 Niranjan JavaScript Projects Portfolio
 
-## Live Website
-https://NiranjanPrasath.github.io/Niranjan-Portfolio-Website/
+This repository contains all the projects completed during my JavaScript course. Each project demonstrates practical use of HTML, CSS, and JavaScript fundamentals, organized into separate folders for clarity and scalability.
 
-## Project Overview
+---
 
-### Portfolio Website
-A fully responsive personal portfolio website designed to present my skills and work in a professional way.
+## 🌐 Live Portfolio Website
 
-## Features
-- Responsive design for mobile, tablet, and desktop
-- Smooth navigation and interactive UI
-- Projects section to showcase work
-- Contact section layout
-- Organized file structure
+🔗 **Live Site:** https://NiranjanPrasath.github.io/Niranjan-Portfolio-Website/
 
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
+This portfolio is fully deployed using GitHub Pages and demonstrates responsive design, interactive UI, and project showcasing.
 
-## What I Learned
-- Structuring a real-world website
-- Styling responsive layouts with CSS
-- Adding interactivity using JavaScript
-- Organizing project files professionally
-- Hosting using GitHub Pages
+---
 
-## Author
-Niranjan Prasath Vishvakumar
+## 📁 Projects Completed
+
+| Project | Description | Key Features |
+|--------|-------------|--------------|
+| 🌟 Portfolio Website | Personal responsive portfolio | Responsive layout, project showcase, contact section, smooth navigation |
+| 🎮 Tic Tac Toe Game | Two-player interactive game | Win/draw detection, reset functionality, DOM manipulation |
+| 🧮 Calculator App | Functional calculator | Arithmetic operations, real-time display, clear/reset buttons |
+| 🌐 One-Page Website | Interactive single-page site | Smooth scrolling, UI interactions, image gallery/lightbox |
+| 🍕 Pizza Menu Project | Interactive ordering system | Size/toppings selection, dynamic price calculation, order summary |
+
+---
+
+## 🧠 Skills Demonstrated
+
+- HTML, CSS, JavaScript integration
+- DOM manipulation and event handling
+- Functions and conditional logic
+- Responsive web design
+- Debugging and problem-solving
+- UI/UX interaction design
+- GitHub Pages deployment
+
+---
+
+## 📁 Repository Structure
+
+Each project is organized in its own folder:
